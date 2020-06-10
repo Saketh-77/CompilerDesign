@@ -128,3 +128,4 @@ if __name__=="__main__":
     printGrammar(grmr)
     print('Grammar after removal of left factoring : ')
     printGrammar(lfFreeGrammar)
+    
